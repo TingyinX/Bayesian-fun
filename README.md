@@ -1,1 +1,1 @@
-"# Bayesian-fun" 
+Some toy applications of basic Bayesian models
